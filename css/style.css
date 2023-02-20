@@ -1,0 +1,111 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content-container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+
+header {
+    padding: 26px 0;
+}
+
+.header-link {
+    font-weight: 700;
+    font-size: 18px;
+    color: #FF0000;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2.7px;
+}
+
+.header-navigation ul {
+    text-align: center;
+}
+
+.header-navigation li {
+    display: inline;
+    margin: 0 36px ;
+}
+
+
+.banner {
+    height: 789px;
+    background-image: url("../img/homework2.jpg");
+}
+
+
+.main {
+    height: fit-content;
+    color: #373737;
+    padding-top: 48px;
+    text-align: center;
+}
+
+.main-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    text-transform: uppercase;
+    letter-spacing: 3.3px;
+    width: 774px;
+    text-align: left;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main-conteiner {
+    width: 1145px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2.4px;
+    margin-top: 38px;
+    margin-right: auto;
+    margin-left: auto;
+}
+ 
+.main-paragrph-first {
+    height: fit-content; 
+}
+
+.main-paragrph-second {
+    height: fit-content;
+    margin-top: 28px;
+}
+
+.main-button {
+    width: 191px;
+    height: 51px;
+    background: #FF0000;
+    border-radius: 4px;
+    margin-top: 66px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    color:#FFFFFF;
+    cursor: pointer;
+}
+
+
+.footer {
+    padding: 40px 0 29px 713px;
+}
+
+.footer-text {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 2.4px;
+    color: #373737
+}
